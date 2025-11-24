@@ -15,8 +15,8 @@ To write a java function to evaluate weather the given Matrix A has all odd numb
 ```java
 /*
 Program to find the nature of resultant matrix.
-Developed by: MOONESH P
-Register Number: 212223230126
+Developed by: YUVARAJ V
+Register Number: 212223230252
 */
 
 import java.util.*;
